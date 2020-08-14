@@ -1,4 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+You can see this project using this link =>
+
+https://clone-29084.web.app
 
 ## Available Scripts
 
